@@ -29,7 +29,7 @@
 > and [this post](http://who-t.blogspot.nl/2009/12/on-commit-messages.html)
 
 ## Release
-> Those points by definition apply to software that is **released** tho the users. Where users can be researchers or other engineers.
+> Those points by definition apply to software that is **released** to the users. Where users can be researchers or other engineers.
 
 * [semantic versioning](http://semver.org/)
 > Semantic Versioning (semver) is the most accepted and used way to add numbers to software versions. It is a way of communicating impact of
