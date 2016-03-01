@@ -2,17 +2,27 @@ Checkmatrix for 'eStep friendly' projects.
 
 This matrix shows what parts of the software sustainability checklist should be taken care of at(perhaps slightly before) what state of a project.
 
+Though very generic in scope and context, this is as a NLeSC specific list. This allows us to keep the number of "states" low.
+
 ## Explanation of project states
 
-- Day One: Always.
-- No longer a prototype: The first step in most software development is trying out different things with no intention in keeping the intermediate results. However, eventually you get software you intend to keep.
-- Has multiple developers: As soon as someone (also within NLeSC) starts contributing to your code.
-- Has a release: The software has a release.
-- Has users: People are using your software.
-- Has external contributors: Developers outside NLeSC contribute to your software.
-- Is a community projectt: The software is actively used and contributed to by so many people that it becomes a community project rather than a NLeSC project.
+- *Prototype phase*. The first step in most software development is trying out different things with no intention in keeping the intermediate results. Signs you could be in this phase:
+  - You switch programming languages.
+  - You trow away all of your code once in a while.
+  - You work on the code by yourself
+  - You are waiting with showing other people your code until you "clean it up a bit first".
+- *Pre-release phase*. Eventually you get software you intend to keep. Signs you could be in this phase:
+  - You have multiple developers.
+  - You have external contributors.
+  - You are working up to a release.
+  - Users ask you if the software is done yet.
+- *Maturity phase*: Software that has reached maturity, has a clear function and scope, and is used. Signs you could be in this phase:
+  - The software has a release.
+  - The software has users: people actually using your software/code
+  - You have external contributor
+  - The software could  is actively used and contributed to by so many people that it becomes a community project rather than a NLeSC project.
 
-These states do not neccesairily happen in order.
+These states happen in order and are exclusive.
 
 ##Version Control
 
