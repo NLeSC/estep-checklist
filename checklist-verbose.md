@@ -141,6 +141,8 @@
 - `README.md` - clear explanation of the goal of the project with pointers to other documentation resources.
 > Use [GitHub flavoured markdown](https://help.github.com/categories/writing-on-github) for, e.g.,
 > [syntax highlighting](https://help.github.com/articles/creating-and-highlighting-code-blocks).
+> (If reStructuredText or another format that GitHub renders is idiomatic in your community,
+> use that instead.)
 > README is targeted towards developers, it is more technical than home page.
 > Keeping basic documentation in README.md can be even useful for lead developer,
 > to track steps and design decisions.
