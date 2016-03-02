@@ -81,7 +81,7 @@ track dependencies (with [VersionEye](https://www.versioneye.com/), [David](http
 
 Item / Phase | Prototype | Pre-release | Mature |
 :------------|:---------:|:-----------:|:------:|
-`README.md` - clear explanation of the goal of the project with pointers to other documentation resources. Use [GitHub flavored markdown](https://help.github.com/categories/writing-on-github) for, e.g., [syntax highlighting](https://help.github.com/articles/creating-and-highlighting-code-blocks).||X
+`README.md` - clear explanation of the goal of the project with pointers to other documentation resources. Use [GitHub flavored markdown](https://help.github.com/categories/writing-on-github) for, e.g., [syntax highlighting](https://help.github.com/articles/creating-and-highlighting-code-blocks).|X
 well defined functionality||X
 source code documentation||X
 usage documentation||X
