@@ -1,6 +1,6 @@
 # Checkmatrix for 'eStep friendly' projects.
 
-BLA BLA
+Printable check-list -- complete this checklist to ensure your project is eStep-ready. If you can tick all boxes on this form, your project should be included as an eStep *Mature* project.
 
 
 ##Version Control
