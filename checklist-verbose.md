@@ -188,6 +188,8 @@
 - DOI or PID ([making your code citable](https://guides.github.com/activities/citable-code/))
 > Identifiers should be associated with releases and should be created together with first release.
 
+> great expample: [A Guide to NumPy/SciPy Documentation](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)
+
 ## Development setup
 
 - using the NLeSC coding style is required
