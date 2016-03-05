@@ -28,7 +28,7 @@
 > [tpope’s guide](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 > and [this post](http://who-t.blogspot.nl/2009/12/on-commit-messages.html)
 
-## Release
+## [Release](#release)
 > Those points by definition apply to software that is **released** to the users. Where users can be researchers or other engineers.
 
 * [semantic versioning](http://semver.org/)
@@ -67,7 +67,7 @@
 
 > Read more about releases [here](http://www.apache.org/dev/release.html)
 
-## Licensing
+## [Licensing](#licensing)
 
 - [Apache 2 license](http://www.apache.org/licenses/LICENSE-2.0)
 > Apache 2.0 is the default choice for the NLeSC software license. Other license can be used in special cases, when software has
@@ -78,7 +78,7 @@
 - `NOTICE(.txt|.md)` listing licenses, request citation of paper if applicable
 > Read more [here](http://www.apache.org/dev/licensing-howto.html)
 
-## Communication
+## [Communication](#communication)
 
 > Communication to the outside world is important for visibility of NLeSC projects and for building
 > the user base.
@@ -115,7 +115,7 @@
 > Starting with requirements and should be updated along the way. There should be no major updates there
 > since the goal of the project should not change.
 
-## Testing
+## [Testing](#testing)
 
 > Those points do not apply to prototype / throwaway phase.
 
@@ -137,7 +137,7 @@
 > Checking for dependency updates should be done regularly. It can save a lot of time,
 > avoiding code dependent on deprecated functionality.
 
-## Documentation
+## [Documentation](#documentation)
 - `README.md` - clear explanation of the goal of the project with pointers to other documentation resources.
 > Use [GitHub flavoured markdown](https://help.github.com/categories/writing-on-github) for, e.g.,
 > [syntax highlighting](https://help.github.com/articles/creating-and-highlighting-code-blocks).
@@ -190,7 +190,7 @@
 
 > great expample: [A Guide to NumPy/SciPy Documentation](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)
 
-## Development setup
+## [Development setup](#development-setup)
 
 - using the NLeSC coding style is required
 > NLeSC should have sane suggestion of coding style for each programming language in use in NLeSC.
