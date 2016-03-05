@@ -1,4 +1,4 @@
-# Checklist with explenations
+# Checklist with explanations
 
 ## [Version control](#version-control)
 
