@@ -1,4 +1,4 @@
-## Version control
+## [Version control](#version-control)
 
 - version control from the beginning of the project
 - use git as version control system (vcs)
@@ -209,7 +209,7 @@
 > This can be very helpful in case of complicated development environment setup and when you want to help developers quickly start
 > with contributions without struggling with setup
 
-## Use standards
+## [Use standards](#use-standards)
 
 - exchange format (Unicode, W3C, OGN, NetCDF, etc)
 - protocols (HTTP, TCP, TLS, etc)
