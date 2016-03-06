@@ -58,7 +58,7 @@ Releases are a way to signify and point to particular milestone in software deve
 
 ### [CHANGELOG.md](#changelog) 
 
-([Keep a CHANGELOG](http://keepachangelog.com/))
+[Keep a CHANGELOG](http://keepachangelog.com/)
 
 Change log is a way to communicate notable changes in release to the users and contributors. Every release should have relevant entry in change log.
 
