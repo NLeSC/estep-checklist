@@ -16,7 +16,7 @@ Checklist for 'eStep friendly' projects.
 - [one command install](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#one-command-install)
 - [package in package manager](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#package-in-package-manager) 
 - [discuss release cycle with coordinator](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#discuss-release-cycle-with-coordinator)
-- [release quick-scan by other engineer](#https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#release-quick-scan-by-other-engineer)
+- [release quick-scan by other engineer](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#release-quick-scan-by-other-engineer)
 - [notify Lode for dissemination](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#notify-lode-for-dissemination)
 
 ## [Licensing](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#licensing)
