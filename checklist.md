@@ -8,64 +8,59 @@ Checklist for 'eStep friendly' projects.
 - [public vcs repository](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#public-vcs-repository)
 - [meaningful commit messages](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#meaningful-commit-messages)
 
-## Release
+## [Release](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#release)
 
-- [semantic versioning](http://semver.org/)
-- tagged releases ([github releases](https://help.github.com/categories/releases/))
-- CHANGELOG.md ([Keep a CHANGELOG](http://keepachangelog.com/))
-- one command install ([pip](https://pypi.python.org/pypi/pip), [npm](https://www.npmjs.com/package/npm) etc)
-- package in package manager ([pypi](https://pypi.python.org/pypi), [npm](https://www.npmjs.com/) etc)
-- discuss release cycle with coordinator
-- release quick-scan by other engineer (is documentation understandable, can it be installed, etc)
-- notify Lode for dissemination (news item on site / annual report, etc)
+- [semantic versioning](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#semantic-versioning)
+- [tagged releases](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#tagged-releases) 
+- [CHANGELOG.md](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#changelogmd)
+- [one command install](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#one-command-install)
+- [package in package manager](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#package-in-package-manager) 
+- [discuss release cycle with coordinator](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#discuss-release-cycle-with-coordinator)
+- [release quick-scan by other engineer](#https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#release-quick-scan-by-other-engineer)
+- [notify Lode for dissemination](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#notify-lode-for-dissemination)
 
-## Licensing
+## [Licensing](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#licensing)
 
-- [Apache 2 license](http://www.apache.org/licenses/LICENSE-2.0)
-- compatible license of all libraries
-- `NOTICE(.txt|.md)` listing licenses, request citation of paper if applicable
+- [Apache 2 license](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#apache-2-license)
+- [compatible license of all libraries](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#compatible-licenses-of-all-libraries)
+- [NOTICE(.txt|.md)](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#noticetxtmd) 
 
-## Communication
+## [Communication](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#communication)
 
-- home page with all the necessary introduction information, links to documenation, source code (github)
-  and latest release download (eg. [github.io pages](https://pages.github.com/))
-- project discussion list (github issues, mailing list, not private email) for all project related
-  discussions from the beginning of the project
-- for services: a demo docker image in dockerhub (with Dockerfile)
-- for websites: an online demo
-- Pitch presentation (1 to 3 slides)
-- Few sentences about the project for [nlesc technology pages](https://www.esciencecenter.nl/technology)
+- [home page](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#home-page)
+- [project discussion list](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#project-discussion-list)
+- [demo docker image in dockerhub (with Dockerfile)](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#demo-docker-image-in-dockerhub-with-dockerfile)
+- [an online demo](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#an-online-demo)
+- [Pitch presentation (1 to 3 slides)](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#pitch-presentation-1-to-3-slides)
+- [few sentences summary of the project](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#few-sentences-summary-of-the-project)
 
-## Testing
+## [Testing](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#testing)
 
-- [unit tests](https://en.wikipedia.org/wiki/Unit_testing)
-- build tests
-- [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration), public on [Travis](https://travis-ci.org/)
-- continuous code coverage and code quality metrics public, minimum 70% coverage required
-- end2end test for (web) user interfaces
-- track dependencies (with [VersionEye](https://www.versioneye.com/),
-  [David](https://david-dm.org/) or other service depending on codebase language)
+- [unit tests](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#unit-tets)
+- [continuous integration](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#continuous-integration)
+- [continuous code coverage](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#continuous-code-coverage)
+- [end2end test](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#end2end-tests)
+- [dependencies tracking](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#dependencies-tracking)
 
-## Documentation
-- `README.md` - clear explanation of the goal of the project with pointers to other documentation resources. Use [GitHub flavored markdown](https://help.github.com/categories/writing-on-github) for, e.g., [syntax highlighting](https://help.github.com/articles/creating-and-highlighting-code-blocks).
-- well defined functionality
-- source code documentation
-- usage documentation
-- documented development setup (good example is [Getting started with khmer development](http://khmer.readthedocs.org/en/latest/dev/getting-started.html))
-- contribution guidelines [egzample](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md)
-- code of conduct ([contributor covenant](http://contributor-covenant.org/))
-- documented code style
-- meaning of issue labels used
-- DOI or PID ([making your code citable](https://guides.github.com/activities/citable-code/))
+## [Documentation](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#documentation)
+- [README.md](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#readmemd)
+- [well defined functionality](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#well-defined-functionality)
+- [source code documentation](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#source-code-documentation)
+- [usage documentation](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#usage-documentation)
+- [documented development setup](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#documented-development-setup)
+- [contribution guidelines](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#contribution-guidelines)
+- [code of conduct](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#code-of-conduct)
+- [documented code style](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#documented-code-style)
+- [explained meaning of issue labels](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#explained-meaning-of-issue-labels)
+- [DOI or PID](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#doi-or-pid)
 
-## Development setup
+## [Development setup](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#development-setup)
 
-- using the NLeSC coding style is required
-- [editorconfig](http://editorconfig.org/)
-- applied code style in automated way if possible (i.e using linters and code formaters)
-- dev environment docker images in Dockerhub (with Dockerfile)
+- [use editorconfig](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#use-editorconfig)
+- [code style applied in automated way](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#code-style-automated)
+- [dev environment docker images in Dockerhub (with Dockerfile)](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#dev-environment-docker-images-in-dockerhub-with-dockerfile)
 
-## Use standards
+## [Use standards](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#use-standards)
 
 - exchange format (Unicode, W3C, OGN, NetCDF, etc)
 - protocols (HTTP, TCP, TLS, etc)
