@@ -227,9 +227,10 @@ when initialising git repository.
 * [StackOverflow on good readme](http://stackoverflow.com/questions/2304863/how-to-write-a-good-readme)
 * [short gist with README.md template](https://gist.github.com/jxson/1784669)
 
-### [well defined functionality](#well-defined-functionality)
+### [well-defined functionality](#well-defined-functionality)
 
-Ideally in README.md
+Ideally in README.md. Make sure to also document what it *doesn't* do. Use the
+[MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method) to prioritise functionality.
 
 ### [source code documentation](#source-code-documentation)
 
