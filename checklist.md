@@ -54,6 +54,7 @@ Checklist for 'eStep friendly' projects.
 - [explained meaning of issue labels](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#explained-meaning-of-issue-labels)
 - [DOI or PID](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#doi-or-pid)
 - [CITATION file](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#citation)
+- [print software version](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#proint-version)
 
 ## [Development setup](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#development-setup)
 

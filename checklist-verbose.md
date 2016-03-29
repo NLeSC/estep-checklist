@@ -282,6 +282,14 @@ Identifiers should be associated with releases and should be created together wi
 Make it easy to cite your software. Read more in [the post by Robin Wilson](http://www.software.ac.uk/blog/2013-09-02-encouraging-citation-software-introducing-citation-files)
 This file should be human readable. Should point to the journal article if there is one and to DOI.
 
+### [print software version](#print-version)
+
+Make it easy to see which version of the software is in use.
+- if it's a command line tool: print version on the command line
+- if it's a website: print version within the interface
+- if the tool generates the output: output file should contain the version of software that
+generated the output
+
 ### example of good documentation: [A Guide to NumPy/SciPy Documentation](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)
 
 ## [Development setup](#development-setup)
