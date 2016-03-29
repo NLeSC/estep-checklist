@@ -19,10 +19,10 @@ with use of git branches,
 forks and github in [Contributing to a Project chapter](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project).
 Other more complicated models could be used if necessary, but we should strive for simplicity and uniformity
 in NLeSc since that will enhance collaboration between the engineers. Learning new branching model should not stand in the way
-of contributions. 
+of contributions.
 You can learn more about those other models from [atlasian page](https://www.atlassian.com/git/tutorials/comparing-workflows).
 
-### [public vcs repository](#public-vcs) 
+### [public vcs repository](#public-vcs)
 
 Use ([github](https://github.com/)).
 
@@ -31,7 +31,7 @@ In case the code uses data, that cannot be open, an engineer should try to keep 
 
 ### [meaningful commit messages](#meaningful-commit-messages)
 
-Commit messages are the way for other developers to understand changes in the codebase. In case of using GitHub flow model commit 
+Commit messages are the way for other developers to understand changes in the codebase. In case of using GitHub flow model commit
 messages can be very short but pull request comment should explain all the changes. It is very important is to explain the why
 behind implementation choices. To learn more about writing good commit messages read
 [tpope’s guide](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
@@ -49,14 +49,14 @@ Semantic Versioning (semver) is the most accepted and used way to add numbers to
 It is a way of communicating impact of changes in the software on users.
 Very often package managers depend on `semver` and will not work as expected otherwise.
 
-### [tagged releases](#tagged-releases) 
+### [tagged releases](#tagged-releases)
 
 [github releases](https://help.github.com/categories/releases/)
 
 Releases are a way to signify and point to particular milestone in software development.
 [Apache foundation](http://www.apache.org/) describes their [release policy](http://www.apache.org/dev/release.html).
 
-### [CHANGELOG.md](#changelog) 
+### [CHANGELOG.md](#changelog)
 
 [Keep a CHANGELOG](http://keepachangelog.com/)
 
@@ -155,9 +155,9 @@ independent use.
 
 For websites
 
-Online demo should be available since first stable release. 
+Online demo should be available since first stable release.
 When the website is the user interface for researchers, make sure there is a development version
-running somewhere so that they can *play around with it* and give usability feedback. 
+running somewhere so that they can *play around with it* and give usability feedback.
 
 ### [Pitch presentation (1 to 3 slides)](#pitch-presentation)
 
@@ -247,7 +247,7 @@ Guidelines should be made available once the code is available online and there 
 for external contributions. External contributions not necessary mean ‘out of NLeSC’
 it could be other engineer in NLeSC. Good guidelines will save time of both lead
 developer and contributor since things have to be explained only once.
-[GitHub supports CONTRIBUTING file](https://github.com/blog/1184-contributing-guidelines). 
+[GitHub supports CONTRIBUTING file](https://github.com/blog/1184-contributing-guidelines).
 
 ### [code of conduct](#code-of-conduct)
 
@@ -277,7 +277,12 @@ Once users start submitting issues labels should be documented.
 
 Identifiers should be associated with releases and should be created together with first release.
 
-* great expample: [A Guide to NumPy/SciPy Documentation](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)
+### [CITATION file](#citation)
+
+Make it easy to cite your software. Read more in [the post by Robin Wilson](http://www.software.ac.uk/blog/2013-09-02-encouraging-citation-software-introducing-citation-files)
+This file should be human readable. Should point to the journal article if there is one and to DOI.
+
+### example of good documentation: [A Guide to NumPy/SciPy Documentation](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)
 
 ## [Development setup](#development-setup)
 

@@ -11,10 +11,10 @@ Checklist for 'eStep friendly' projects.
 ## [Release](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#release)
 
 - [semantic versioning](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#semantic-versioning)
-- [tagged releases](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#tagged-releases) 
+- [tagged releases](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#tagged-releases)
 - [CHANGELOG.md](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#changelogmd)
 - [one command install](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#one-command-install)
-- [package in package manager](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#package-in-package-manager) 
+- [package in package manager](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#package-in-package-manager)
 - [discuss release cycle with coordinator](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#discuss-release-cycle-with-coordinator)
 - [release quick-scan by other engineer](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#release-quick-scan-by-other-engineer)
 - [notify Lode for dissemination](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#notify-lode-for-dissemination)
@@ -23,7 +23,7 @@ Checklist for 'eStep friendly' projects.
 
 - [Apache 2 license](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#apache-2-license)
 - [compatible license of all libraries](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#compatible-licenses-of-all-libraries)
-- [NOTICE(.txt|.md)](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#noticetxtmd) 
+- [NOTICE(.txt|.md)](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#noticetxtmd)
 
 ## [Communication](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#communication)
 
@@ -53,6 +53,7 @@ Checklist for 'eStep friendly' projects.
 - [documented code style](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#documented-code-style)
 - [explained meaning of issue labels](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#explained-meaning-of-issue-labels)
 - [DOI or PID](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#doi-or-pid)
+- [CITATION file](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#citation)
 
 ## [Development setup](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#development-setup)
 
