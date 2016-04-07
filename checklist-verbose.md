@@ -266,6 +266,13 @@ one developer writes code. NLeSC should have sane suggestion of coding style
 for each programming language in use in NLeSC. Coding styles are about consistency
 and making a choice and not so much about the superiority of one style over the other.
 Sane set of guides can be found on in [google documentation](https://github.com/google/styleguide).
+### [how to file a bug report](#howto-bug-report)
+
+Describing how to properly report a bug will save a lot of developers's time.
+It is also useful to point users to good bug report guide like [one from Simon Tatham]( http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
+
+* [An example of such a document for Mozilla projects](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines)
+* [Other example from Ubuntu Docuementation](https://help.ubuntu.com/community/ReportingBugs)
 
 ### [explained meaning of issue labels](#issue-labeles-explained)
 

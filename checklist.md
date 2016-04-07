@@ -51,6 +51,7 @@ Checklist for 'eStep friendly' projects.
 - [contribution guidelines](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#contribution-guidelines)
 - [code of conduct](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#code-of-conduct)
 - [documented code style](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#documented-code-style)
+- [how to file a bug report](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#howto-bug-report)
 - [explained meaning of issue labels](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#explained-meaning-of-issue-labels)
 - [DOI or PID](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#doi-or-pid)
 - [CITATION file](https://github.com/NLeSC/estep-checklist/blob/master/checklist-verbose.md#citation)
